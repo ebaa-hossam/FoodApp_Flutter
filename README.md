@@ -1,2 +1,16 @@
-# FoodApp_Flutter
-Experience your go-to food app for a world of possibilities. With a user-friendly interface built using Flutter, you can explore and enjoy a curated list of meal categories, each catering to your unique tastes and dietary preferences.
+# meals_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
